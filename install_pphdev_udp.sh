@@ -736,7 +736,7 @@ perform_install() {
 
         echo
         echo -e "$(tbold)Client app pphdev Connect:$(treset)"
-        echo -e "$(tblue)https://play.google.com/store/apps/details?id=com.pphdevmm.mmdev"
+        echo -e "$(tblue)https://play.google.com/store/apps/details?id=com.skphvpn.mm&hl=en"
         echo
         echo -e "Follow me!"
         echo

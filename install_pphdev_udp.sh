@@ -740,8 +740,8 @@ perform_install() {
         echo
         echo -e "Follow me!"
         echo
-        echo -e "\t+ Follow me on Telegram: $(tblue)https://t.me/sansoe2021$(treset)"
-        echo -e "\t+ Follow me on Facebook: $(tblue)https://www.facebook.com/share/15KzEGz3Es/"
+        echo -e "\t+ Follow me on Telegram: $(tblue)https://t.me/pphdev$(treset)"
+        echo -e "\t+ Follow me on Facebook: $(tblue)https://www.facebook.com/pyingpying.hein.p"
         echo
     else
         restart_running_services

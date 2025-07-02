@@ -981,15 +981,15 @@ uninstall_server() {
 
 show_banner() {
     echo -e "\e[1;36m---------------------------------------------"
-    echo " pphdev UDP Manager with Online User Tracking"
+    echo " PPH UDP Manager with Online User Tracking"
     echo " (c) 2025 pphdev"
-    echo " Telegram: @sansoe2021"
+    echo " Telegram: @pphdev"
     echo "---------------------------------------------\e[0m"
 }
 
 show_menu() {
     echo -e "\e[1;36m----------------------------"
-    echo " pphdev UDP Manager"
+    echo " PPH UDP Manager"
     echo -e "----------------------------\e[0m"
     echo -e "\e[1;32m1. Add new user"
     echo "2. Edit user password"

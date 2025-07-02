@@ -1,16 +1,16 @@
-# SVPN UDP
+# pphdev UDP
 // Install
 ```
-apt-get remove command-not-found -y && wget https://raw.githubusercontent.com/sansoe2022/udp/refs/heads/main/install_svpn_udp.sh && chmod +x install_svpn_udp.sh; ./install_svpn_udp.sh
+apt-get remove command-not-found -y && wget https://raw.githubusercontent.com/pphdev2022/PPH_UDP/refs/heads/main/install_pphdev_udp.sh && chmod +x install_pphdev_udp.sh; ./install_pphdev_udp.sh
 ```
 # New Features
 - One click install
 - Dynamic domain and obfs
 
 # Modified by
-San Kyaw Soe (SVPN Developer)
+San Kyaw Soe (pphdev Developer)
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.svpnmm.mmdev"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="100"></a>
+<a href="https://play.google.com/store/apps/details?id=com.pphdevmm.mmdev"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="100"></a>
 </p>
 
 
